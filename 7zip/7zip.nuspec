@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>7zip</id>
+    <title>7zip (Install)</title>
+    <authors>John Hall</authors>
+    <version>19.00</version>
+    <owners>ERNI Asia</owners>
+    <summary>__REPLACE__</summary>
+    <description>7zip is a free software</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+   </files>
+</package>
