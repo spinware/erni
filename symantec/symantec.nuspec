@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>symantecerni</id>
+    <title>symantec</title>
+    <authors>Erni Asia Holding Pte Ltd</authors>
+    <version>3.00.31.2817</version>
+    <owners>Symantec Corporation</owners>
+    <summary>Symantec Cloud Agent and Endpoint Protection</summary>
+    <description>Symantec and the Syantec Logo are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+   </files>
+</package>
